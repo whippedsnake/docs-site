@@ -1,3 +1,5 @@
+= Document Title
+
 It has *strong* significance to me.
 
 I _cannot_ stress this enough.
