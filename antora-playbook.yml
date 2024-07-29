@@ -4,9 +4,9 @@ site:
   start_page: index.adoc
 content:
   sources:
-  - url: https://github.com/whippedsnake/docs-site/
+  - url: https://github.com/whippedsnake/docs-site/tree/main
     branches: main
-    start_path: docs-1
+    start_path: docs
 ui:
   bundle:
     url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
