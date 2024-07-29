@@ -1,0 +1,9 @@
+site:
+  title: My Demo Site
+ start_page: component-b::index.adoc
+content:
+  sources:
+   - url: https://github.com/whippedsnake/docs-site.git
+   - url: https://github.com/whippedsnake/docs-site.git
+  
+
